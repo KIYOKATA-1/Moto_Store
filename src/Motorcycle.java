@@ -38,6 +38,6 @@ public class Motorcycle implements IMoto{
         System.out.println("Мотоцикл: " + name);
         System.out.println("Модель: " + model);
         System.out.println("Год Выпуска: " + year);
-        System.out.println("Цена: " + price + " $");
+        System.out.println("Цена: " + price + "$");
     }
 }
